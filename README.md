@@ -23,9 +23,9 @@ Django Session for [UDICTI TCMS-CRDB BootCamp 2022](https://udicti.udsm.ac.tz/)
 $ git clone https://github.com/kalokola/tcms.git
 $ cd tcms
 $ pip3 install -r requirements.txt
-$ python3 manage.py runserver
+$ python3 manage.py runserver 8000
 ```
-You can now visit the browser on your [localhost](http://127.0.0.1:8000) at
+You can now visit the browser on your [localhost](http://127.0.0.1:8000) at port 8000, you can change 800 to your favourite port number
 
 
 
